@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smashy Duo Jump", "Assembly-CSharp.csproj", "{DD7C55E9-EC7A-2175-E62E-9294DB4FF2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smashy Duo Jump", "Assembly-CSharp-firstpass.csproj", "{77FC4668-E137-D9E2-7D35-77E8B9D203DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smashy Duo Jump", "Assembly-CSharp-Editor.csproj", "{BDB32CD7-4502-A06E-A677-EA2A8D7FC8B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7C55E9-EC7A-2175-E62E-9294DB4FF2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7C55E9-EC7A-2175-E62E-9294DB4FF2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7C55E9-EC7A-2175-E62E-9294DB4FF2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7C55E9-EC7A-2175-E62E-9294DB4FF2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FC4668-E137-D9E2-7D35-77E8B9D203DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FC4668-E137-D9E2-7D35-77E8B9D203DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FC4668-E137-D9E2-7D35-77E8B9D203DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FC4668-E137-D9E2-7D35-77E8B9D203DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB32CD7-4502-A06E-A677-EA2A8D7FC8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB32CD7-4502-A06E-A677-EA2A8D7FC8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB32CD7-4502-A06E-A677-EA2A8D7FC8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB32CD7-4502-A06E-A677-EA2A8D7FC8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
